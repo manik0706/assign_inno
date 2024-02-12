@@ -7,6 +7,10 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 steps which are followed in this assignment:-
+
+
+
+
 checked the api on postman.
 saw data where index value is already given 5.
 created model of json to dart.
@@ -14,6 +18,9 @@ implemented the front end of application.
 implemented the api and the search functionality.
 
 steps followed for implementation of  the signup screen:
+
+
+
 setup the firebase account.
 implemented the changes made in the gradle file.
 initialized the firebase in the project.
@@ -21,6 +28,9 @@ created signup screen.
 
 
 packages used:-
+
+
+
   provider: ^6.1.1
   http: ^1.2.0
   flutter_rating_bar: ^4.0.1
