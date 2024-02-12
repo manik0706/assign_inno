@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953358127701",
+    "project_id": "innoassign-97461",
+    "storage_bucket": "innoassign-97461.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953358127701:android:65823f5699e7090f9a3adc",
+        "android_client_info": {
+          "package_name": "com.example.inno_assign"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9y41eHKyYc3OCMULFKGlsusBdGa2_gW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
